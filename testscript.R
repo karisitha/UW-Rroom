@@ -4,7 +4,11 @@
 
 ## testing adding comments as a collaborator.
 
+<<<<<<< HEAD
+##Thank you
+=======
 ## another test of adding a comment.
+<<<<<<< HEAD
 
 
 
@@ -35,3 +39,6 @@ dev.print(pdf, "toyline plot.pdf")
 ## if putting things online, good to have *.png formats
 dev.print(png, "toylinePlot.png", width=480)
 
+=======
+>>>>>>> 85910db5be000e035657ce68f5ee28f58556557d
+>>>>>>> bae8a5ca6769f4bef5b6f2163a0181dcbc13029a
